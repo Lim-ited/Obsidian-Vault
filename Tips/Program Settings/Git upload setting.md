@@ -11,7 +11,7 @@ Using SSH, Two accounts.
 4. Set URL by the github account you want
 	Hyungmin-L
 		ssh -T git@github.com
-		git remote set-url origin git@github.com:Hyungmin-L/<RepositoryP name>.git
+		git remote set-url origin git@github.com:Hyungmin-L/<Repository name>.git
 	
 	Lim-ited
 		ssh -T git@github-limited
