@@ -23,4 +23,5 @@ git remote -v
 6. Push
 git push -u origin main
 
-Good!
+7. Contributors
+him030107@gmail.com
