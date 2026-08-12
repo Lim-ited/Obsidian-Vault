@@ -25,5 +25,3 @@ git push -u origin main
 
 7. Contributors
 him030107@gmail.com
-
-This is mobile backup Test.
