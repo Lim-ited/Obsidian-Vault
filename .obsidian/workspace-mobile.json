@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips/Program Settings/Git upload setting.md",
+                "file": "Notes/Quantum Algorithms/Ground state problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git upload setting"
+              "title": "Ground state problem"
             }
           }
         ]
@@ -178,5 +178,10 @@
     }
   },
   "active": "544cb4d52064aaed",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Templates/Zotero Integration Template.md",
+    "Tips/Program Settings/Git upload setting.md",
+    "Tips/Program Settings/Cluster setting.md",
+    "Tips/Program Settings/Qiskit Advocate number.md"
+  ]
 }
