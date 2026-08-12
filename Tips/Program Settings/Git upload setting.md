@@ -17,13 +17,11 @@ Using SSH, Two accounts.
 		ssh -T git@github-limited
 		git remote set-url origin git@github-limited:Lim-ited/<Repository name>.git
 
-5. Status Check
+4. Status Check
 git remote -v
 
-6. Push
+5. Push
 git push -u origin main
 
 7. Contributors
 him030107@gmail.com
-
-8. Hello
