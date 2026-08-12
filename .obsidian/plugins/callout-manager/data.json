@@ -1,0 +1,33 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "cite": [
+        {
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "info": [
+        {
+          "changes": {
+            "color": "168, 130, 255"
+          }
+        }
+      ],
+      "abstract": [
+        {
+          "changes": {
+            "color": "166, 189, 197"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

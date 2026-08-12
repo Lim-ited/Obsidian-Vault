@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Sources/References"
+    order:
+      - file.name
+      - Author
+      - Journal
+      - Title
+    columnSize:
+      file.name: 103
+      note.Author: 254
