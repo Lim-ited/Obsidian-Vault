@@ -1,13 +1,34 @@
-Caltech Winter School 
+# Caltech Winter School 2026 — Budget
 
-Date : 11/30 ~ 12/3
-=> Travel : 11/28 ~ 12/4 or 5
+## Trip Overview
 
-Plane : 11/28 ~ 11/29
+- Program: Nov 30–Dec 3, 2026
+- Travel dates: Nov 27 – Dec 4
+- Currency: KRW
+- Exchange rate: USD 1 = KRW ___
 
-Plane price : 905700 * 0.85 = 769845
+## Fixed Expenses
+| Category      | Item             | Estimated |           Actual | Paid? |
+| ------------- | ---------------- | --------: | ---------------: | ----- |
+| Flight        | Round trip       |  ₩769,845 |         ₩801,200 | ✅     |
+| Registration  | Winter School    |  $100 USD | $ 0 USD (By Lab) | ✅     |
+| Accommodation | Nov 29–Dec 4     |  ₩662,327 |                  |       |
+| Insurance     | Travel insurance |           |                  |       |
 
-1) 12/4 : Rental price - 662327
-2) 12/5 : Rental price - 787768
+## Variable Expenses
+| Category | Daily budget | Days | Total |
+|---|---:|---:|---:|
+| Meals |  |  |  |
+| Local transportation |  |  |  |
+| Miscellaneous |  |  |  |
 
+## Options
+| Return date | Accommodation | Other expenses | Total |
+|---|---:|---:|---:|
+| Dec 4 | ₩662,327 |  |  |
+| Dec 5 | ₩787,768 |  |  |
 
+## Summary
+- Estimated total:
+- Actual total:
+- Remaining budget:

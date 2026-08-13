@@ -54,7 +54,7 @@ Pre-school preparation
 
 ### Logistics
 [[Registration]]
-[[Travel]]
+[[Itinerary]]
 [[Accommodation]]
 
 ### After
