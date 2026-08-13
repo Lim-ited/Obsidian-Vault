@@ -57,3 +57,17 @@ Next experiment/derivation:
 ## Today's deep work 
 
 [[2026-08-13]]
+
+
+
+TRACK A — MAIN RESEARCH
+Hamiltonian simulation + condensed matter
+
+TRACK B — ALGORITHMIC CORE
+Trotter → LCU → block encoding → qubitization → QSP/QSVT
+
+TRACK C — PHYSICS FOUNDATION
+Many-body QM → tensor networks → DMRG
+
+TRACK D — CALTECH EXPLORATION
+Electronic structure → HF → correlation → chemistry Hamiltonians
