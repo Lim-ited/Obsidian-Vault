@@ -5,15 +5,14 @@ Home network’s public IP :
 187.15.98.58
 
 CPU
+ssh hmlim@49.50.134.23 -p 2244
 교내 접속 IP : 1.233.219.95
 외부 접속 IP : 49.50.134.23 
 
 GPU
+ssh hmlim@49.50.134.23 -p 2233
 교내 접속 IP : 1.233.213.110
 외부 접속 IP : 49.50.134.23
-
-ssh hmlim@1.233.219.95
-ssh hmlim@49.50.134.23 -p 2244
 
 Login node
 module avail 
