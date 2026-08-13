@@ -1,6 +1,8 @@
 Hook error / Error propagation
 => Effective distance reduction
 
+Home network’s public IP :
+187.15.98.58
 
 CPU
 교내 접속 IP : 1.233.219.95
