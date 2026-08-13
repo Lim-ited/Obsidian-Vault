@@ -22,3 +22,15 @@
 
 
 
+## Related concepts
+
+Prerequisites:
+- [[Oblivious Amplitude Amplification]]
+- [[Amplitude Amplification]]
+
+Leads to:
+- [[Block Encoding]]
+- [[Qubitization]]
+
+Applications:
+- [[Hamiltonian Simulation]]
