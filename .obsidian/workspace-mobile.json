@@ -11,14 +11,10 @@
             "id": "544cb4d52064aaed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Quantum Algorithms/Ground state problem.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ground state problem"
+              "title": "New tab"
             }
           }
         ]
@@ -179,9 +175,49 @@
   },
   "active": "544cb4d52064aaed",
   "lastOpenFiles": [
-    "Templates/Zotero Integration Template.md",
-    "Tips/Program Settings/Git upload setting.md",
-    "Tips/Program Settings/Cluster setting.md",
-    "Tips/Program Settings/Qiskit Advocate number.md"
+    "80 System/Templates/Zotero Integration Template.md",
+    "80 System/Software/Qiskit/Qiskit runtime.md",
+    "80 System/Software/Qiskit/Qiskit Advocate number.md",
+    "80 System/Guides/How to Summerize.md",
+    "70 Ideas/Homology simulation through the quantum computer and QEC code.md",
+    "60 Events/QID2026/2026-07-09.md",
+    "60 Events/QID2026/2026-07-08.md",
+    "60 Events/IBS QC for QFT 2026/_source/Pasted image 20260803140336.png",
+    "60 Events/IBS QC for QFT 2026/_source/Pasted image 20260803130921.png",
+    "60 Events/IBS QC for QFT 2026/_source/Pasted image 20260803130623.png",
+    "60 Events/IBS QC for QFT 2026/2026-08-06.md",
+    "60 Events/IBS QC for QFT 2026/2026-08-03.md",
+    "60 Events/IBS QC for QFT 2026/2026-08-02.md",
+    "40 Literature/References/@Wolf2023.md",
+    "40 Literature/References/@Simon1994.md",
+    "40 Literature/References/@Berry2015.md",
+    "40 Literature/References/@An2023.md",
+    "40 Literature/Papers.base",
+    "40 Literature/Example Source.md",
+    "30 Knowledge/Quantum Error Correction/3D Self Correcting Quantum Memory.md",
+    "30 Knowledge/Quantum Algorithms/_sources/Pasted image 20260804235709.png",
+    "30 Knowledge/Quantum Algorithms/Polynomial Methods/Quantum Singular Value Transformation.md",
+    "30 Knowledge/Quantum Algorithms/Polynomial Methods/Quantum Signal Processing.md",
+    "30 Knowledge/Quantum Algorithms/Eigenvalue & Ground-state Problems/Ground state problem.md",
+    "30 Knowledge/Quantum Algorithms/Algorithm Primitives/Oblivious Amplitude Amplification.md",
+    "20 Areas/Career/Scholarship/Master scholarship.md",
+    "/80 System/Templates/Zotero Integration Template.md",
+    "/80 System/Software/Qiskit/Qiskit runtime.md",
+    "/80 System/Software/Qiskit/Qiskit Advocate number.md",
+    "/80 System/Guides/How to Summerize.md",
+    "/70 Ideas/Homology simulation through the quantum computer and QEC code.md",
+    "/60 Events/IBS QC for QFT 2026/_source/Pasted image 20260803140336.png",
+    "/60 Events/IBS QC for QFT 2026/_source/Pasted image 20260803130921.png",
+    "/60 Events/IBS QC for QFT 2026/_source/Pasted image 20260803130623.png",
+    "/40 Literature/Papers.base",
+    "/30 Knowledge/Quantum Algorithms/_sources/Pasted image 20260804235709.png",
+    "80 System/Software/Qiskit",
+    "80 System/Templates",
+    "80 System/Software",
+    "80 System/Guides",
+    "80 System",
+    "70 Ideas/Idea Inbox",
+    "70 Ideas",
+    "60 Events/IBS QC for QFT 2026/_source"
   ]
 }
