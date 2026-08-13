@@ -1,0 +1,29 @@
+## 30-second version
+
+I study ...
+
+## 2-minute version
+
+My research asks ...
+
+The main difficulty is ...
+
+Our approach is ...
+
+The important result is ...
+
+## Why this matters
+
+...
+
+## Connection to quantum chemistry
+
+...
+
+## Connection to classical many-body methods
+
+...
+
+## Open questions
+
+...

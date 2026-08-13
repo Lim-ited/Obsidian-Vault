@@ -47,7 +47,7 @@ Pre-school preparation
 [[Tensor Networks & DMRG Prep]]
 
 ### People
-[[60 Events/Marcus Center Winter School 2026/People to Meet]]
+[[People to Meet]]
 [[Garnet Chan]]
 [[Lin Lin]]
 [[Questions to Ask]]

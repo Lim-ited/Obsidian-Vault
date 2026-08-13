@@ -1,32 +1,70 @@
-Aug–Sep 2026
+Aug
+│
+├── Registration
+├── Decide poster topic
+├── Draft poster abstract
+└── Start electronic structure
+      ↓
+Early Sep
+│
+├── Submit abstract
+└── Discuss poster direction with advisor
+      ↓
+Sep–Oct
 │
 ├── Main research
-├── Strengthen many-body fundamentals
-├── Poster abstract
-└── Begin electronic structure basics
-        │
-        ▼
-Sep–Nov
+├── MPS / DMRG
+├── Hartree-Fock / correlation
+└── Start poster figures
+      ↓
+Nov
 │
-├── MSc research
-├── QSP/QSVT / Hamiltonian simulation
-├── MPS + DMRG
-└── Quantum chemistry foundation
-        │
-        ▼
+├── Finish poster
+├── Prepare 30 sec / 2 min explanation
+├── Read selected Chan/Lin papers
+├── Prepare questions
+└── Travel preparation
+      ↓
 Nov 30–Dec 3
 │
-└── Caltech Winter School
-        │
-        ▼
-Dec–Jan
+└── WINTER SCHOOL
+      ↓
+Dec
 │
-├── Consolidate chemistry notes
-├── Identify 2–3 potential research bridges
-└── Decide whether chemistry deserves deeper investment
-        │
-        ▼
-2027
-│
-├── Continue main research
-└── Gradually test PhD directions
+├── Follow-up emails
+├── Convert event notes → knowledge notes
+├── Evaluate research directions
+└── Write retrospective
+
+
+
+                         10 PROJECTS
+                 Caltech Winter School
+                        │
+       ┌───────────────────┼────────────────────┐
+       │                   │                    │
+     Poster              Study              Networking
+       │                   │                    │
+       │                   ▼                    │
+       │             30 KNOWLEDGE               │
+       │          ┌────────┴────────┐            │
+       │      Chemistry        Algorithms        │
+       │      DMRG/MPS          QSVT             │
+       │          │                                │
+       └──────────┼────────────────────────────────┘
+                  │
+                  ▼
+             WINTER SCHOOL
+                  │
+                  ▼
+               60 EVENTS
+                  │
+        daily notes / conversations
+                  │
+                  ▼
+              AFTER SCHOOL
+                  │
+        ┌─────────┴──────────┐
+        ▼                    ▼
+   30 Knowledge           70 Ideas
+ updated concepts      research directions
