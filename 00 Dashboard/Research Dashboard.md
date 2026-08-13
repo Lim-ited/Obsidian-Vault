@@ -47,3 +47,13 @@ Next experiment/derivation:
 
 - Caltech poster abstract
 - Marcus Center Winter School
+
+## Waiting / Later 
+
+- Quantum chemistry 
+- Lattice gauge theory 
+- Quantum PDE 
+
+## Today's deep work 
+
+[[2026-08-13]]
