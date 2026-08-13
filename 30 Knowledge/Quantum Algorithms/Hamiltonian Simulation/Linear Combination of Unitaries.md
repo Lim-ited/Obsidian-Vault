@@ -11,7 +11,7 @@
 2. Linear Combination of Unitaries (LCUs)
 3. Oblivious Amplitude Amplification (OAA; Berry, Childs, Cleve, Kothari, Somma 2014)
 4. Block encoding (Low& Chaung 2016-2019)
-5.  [[Quantum Singular Value Transformation (QSVT)]] (QSVT; Gilyen et al. 2019)
+5.  [[Quantum Singular Value Transformation]] (QSVT; Gilyen et al. 2019)
 6. Quantum Signal Processing (QSP)
 
 >[!cite]
