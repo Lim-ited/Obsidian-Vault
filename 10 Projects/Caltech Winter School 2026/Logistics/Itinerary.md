@@ -1,0 +1,6 @@
+- Flight departure and arrival times
+- Airport-to-hotel transportation
+- Hotel check-in and check-out
+- Winter School schedule
+- Free-time plans
+- Return journey

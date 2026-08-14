@@ -1,0 +1,6 @@
+- Passport and travel documents
+- Clothes and toiletries
+- Laptop, charger, and adapter
+- Poster or presentation materials
+- Medication
+- Items to purchase before departure

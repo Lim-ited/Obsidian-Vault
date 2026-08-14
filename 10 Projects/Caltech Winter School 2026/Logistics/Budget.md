@@ -12,21 +12,15 @@
 | ------------- | ---------------- | --------: | ---------------: | ----- |
 | Flight        | Round trip       |  ₩769,845 |         ₩801,200 | ✅     |
 | Registration  | Winter School    |  $100 USD | $ 0 USD (By Lab) | ✅     |
-| Accommodation | Nov 29–Dec 4     |  ₩662,327 |                  |       |
+| Accommodation | Nov 29–Dec 4     |  ₩662,327 |       ₩1,140,877 |       |
 | Insurance     | Travel insurance |           |                  |       |
 
 ## Variable Expenses
-| Category | Daily budget | Days | Total |
-|---|---:|---:|---:|
-| Meals |  |  |  |
-| Local transportation |  |  |  |
-| Miscellaneous |  |  |  |
-
-## Options
-| Return date | Accommodation | Other expenses | Total |
-|---|---:|---:|---:|
-| Dec 4 | ₩662,327 |  |  |
-| Dec 5 | ₩787,768 |  |  |
+| Category             | Daily budget | Days | Total |
+| -------------------- | -----------: | ---: | ----: |
+| Meals                |              |      |       |
+| Local transportation |              |      |       |
+| Miscellaneous        |              |      |       |
 
 ## Summary
 - Estimated total:
