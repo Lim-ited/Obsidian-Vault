@@ -1,6 +1,7 @@
 {
   "__VERSION__": 3,
   "release.previous-version": "2.0.1",
-  "note.literature-folder": "Sources/Literature",
-  "attachment.folder-path": "Sources/Attachments"
+  "note.literature-folder": "40 Literature/Literature Notes",
+  "attachment.folder-path": "40 Literature/Attachments",
+  "template.folder": "80 System/Templates"
 }
