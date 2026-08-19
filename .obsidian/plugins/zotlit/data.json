@@ -20,7 +20,7 @@
     },
     {
       "key": "authors",
-      "expr": "zt.authors | map: \"fullName\"",
+      "expr": "zt.authors | map: \"fullName\" | arr_prefix: \"[[40 Literature/Authors/\" | arr_suffix: \"]]\"",
       "merge": "replace",
       "language": "liquid"
     },
@@ -38,7 +38,7 @@
     },
     {
       "key": "journal",
-      "expr": "zt.containerTitle",
+      "expr": "zt.containerTitle | prepend: \"[[40 Literature/Journals/\" | append: \"]]\"",
       "merge": "replace",
       "language": "liquid"
     },
