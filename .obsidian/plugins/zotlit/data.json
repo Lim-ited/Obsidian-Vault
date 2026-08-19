@@ -15,7 +15,7 @@
     {
       "key": "aliases",
       "expr": "zt.title | split: \"<<<ZOTLIT_ALIAS_SEPARATOR>>>\"",
-      "merge": "replace",
+      "merge": "append",
       "language": "liquid"
     },
     {
