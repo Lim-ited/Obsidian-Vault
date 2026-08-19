@@ -4,5 +4,67 @@
   "note.literature-folder": "40 Literature/Literature Notes",
   "attachment.folder-path": "40 Literature/Attachments",
   "template.folder": "80 System/Templates",
-  "citation.key-links": true
+  "citation.key-links": true,
+  "note.frontmatter-fields": [
+    {
+      "key": "title",
+      "expr": "zt.title",
+      "merge": "replace",
+      "language": "liquid"
+    },
+    {
+      "key": "authors",
+      "expr": "zt.authors | map: \"fullName\"",
+      "merge": "replace",
+      "language": "liquid"
+    },
+    {
+      "key": "citekey",
+      "expr": "zt.citationKey",
+      "merge": "replace",
+      "language": "liquid"
+    },
+    {
+      "key": "type",
+      "expr": "zt.itemType",
+      "merge": "replace",
+      "language": "liquid"
+    },
+    {
+      "key": "journal",
+      "expr": "zt.containerTitle",
+      "merge": "replace",
+      "language": "liquid"
+    },
+    {
+      "key": "published",
+      "expr": "zt.date | date: \"%Y-%m-%d\"",
+      "merge": "replace",
+      "language": "liquid"
+    },
+    {
+      "key": "doi",
+      "expr": "zt.DOI",
+      "merge": "replace",
+      "language": "liquid"
+    },
+    {
+      "key": "url",
+      "expr": "zt.url",
+      "merge": "replace",
+      "language": "liquid"
+    },
+    {
+      "key": "zotero",
+      "expr": "zt.backlink",
+      "merge": "replace",
+      "language": "liquid"
+    },
+    {
+      "key": "status",
+      "expr": "\"Unread\"",
+      "merge": "keep",
+      "language": "liquid"
+    }
+  ]
 }
