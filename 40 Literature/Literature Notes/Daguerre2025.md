@@ -4,11 +4,11 @@ aliases:
 tags:
   - zotero/Quantum_Physics
 authors:
-  - "[[40 Literature/Authors/Lucas Daguerre]]"
-  - "[[40 Literature/Authors/Isaac H. Kim]]"
+  - "[[40 Literature/Authors/Lucas Daguerre|Lucas Daguerre]]"
+  - "[[40 Literature/Authors/Isaac H. Kim|Isaac H. Kim]]"
 citekey: Daguerre2025
 type: journalArticle
-journal: "[[40 Literature/Journals/Physical Review Research]]"
+journal: "[[40 Literature/Journals/Physical Review Research|Physical Review Research]]"
 published: 2025-04-23
 doi: 10.1103/PhysRevResearch.7.023080
 url: http://arxiv.org/abs/2410.07327

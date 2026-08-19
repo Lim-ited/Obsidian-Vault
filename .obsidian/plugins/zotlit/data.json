@@ -20,9 +20,9 @@
     },
     {
       "key": "authors",
-      "expr": "zt.authors | map: \"fullName\" | arr_prefix: \"[[40 Literature/Authors/\" | arr_suffix: \"]]\"",
+      "expr": "zt.authors.map(a => `[[40 Literature/Authors/${a.fullName}|${a.fullName}]]`)",
       "merge": "replace",
-      "language": "liquid"
+      "language": "javascript"
     },
     {
       "key": "citekey",
@@ -38,9 +38,9 @@
     },
     {
       "key": "journal",
-      "expr": "zt.containerTitle | prepend: \"[[40 Literature/Journals/\" | append: \"]]\"",
+      "expr": "zt.containerTitle\n  ? `[[40 Literature/Journals/${zt.containerTitle}|${zt.containerTitle}]]`\n  : null",
       "merge": "replace",
-      "language": "liquid"
+      "language": "javascript"
     },
     {
       "key": "published",
