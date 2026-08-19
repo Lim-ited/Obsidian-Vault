@@ -7,14 +7,14 @@
   "citation.key-links": true,
   "note.frontmatter-fields": [
     {
-      "key": "title",
-      "expr": "zt.title",
-      "merge": "replace",
+      "key": "aliases",
+      "expr": "zt.title | split: \"<<<ZOTLIT_ALIAS_SEPARATOR>>>\"",
+      "merge": "append",
       "language": "liquid"
     },
     {
-      "key": "aliases",
-      "expr": "zt.title | split: \"<<<ZOTLIT_ALIAS_SEPARATOR>>>\"",
+      "key": "tags",
+      "expr": "zt.tags | obsidian_tag: \"zotero/\"",
       "merge": "append",
       "language": "liquid"
     },
@@ -70,12 +70,6 @@
       "key": "status",
       "expr": "\"Unread\"",
       "merge": "keep",
-      "language": "liquid"
-    },
-    {
-      "key": "tags",
-      "expr": "zt.tags | obsidian_tag: \"zotero/\"",
-      "merge": "append",
       "language": "liquid"
     }
   ]
