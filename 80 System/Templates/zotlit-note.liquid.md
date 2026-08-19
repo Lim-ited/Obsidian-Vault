@@ -1,5 +1,8 @@
 # {{ zt.title }}
 
-[Zotero]({{ zt.backlink }}) {{ zt.attachments | map: "fileLink" | compact | join: " " }}
+[Zotero]({{ zt.backlink }}){% if zt.url %} · [Source]({{ zt.url }}){% endif %}
+
+## Summary
+
 
 {% render "content" with zt as zt %}
