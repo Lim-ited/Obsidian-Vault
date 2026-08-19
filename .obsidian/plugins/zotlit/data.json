@@ -13,6 +13,12 @@
       "language": "liquid"
     },
     {
+      "key": "aliases",
+      "expr": "zt.title | split: \"<<<ZOTLIT_ALIAS_SEPARATOR>>>\"",
+      "merge": "replace",
+      "language": "liquid"
+    },
+    {
       "key": "authors",
       "expr": "zt.authors | map: \"fullName\"",
       "merge": "replace",
@@ -64,6 +70,12 @@
       "key": "status",
       "expr": "\"Unread\"",
       "merge": "keep",
+      "language": "liquid"
+    },
+    {
+      "key": "tags",
+      "expr": "zt.tags | obsidian_tag: \"zotero/\"",
+      "merge": "append",
       "language": "liquid"
     }
   ]
