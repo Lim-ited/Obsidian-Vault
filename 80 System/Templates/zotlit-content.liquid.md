@@ -12,6 +12,7 @@
 {% for annotation in zt.annotations %}
 {% render "annotation" with annotation as zt %}
 
+^zt-{{ annotation.key }}
 
 {% endfor %}
 {% endif %}
