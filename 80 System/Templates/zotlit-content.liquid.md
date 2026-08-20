@@ -1,5 +1,4 @@
 {% if zt.notes.size > 0 %}
-
 ## Zotero Notes
 
 {% for note in zt.notes -%}
@@ -8,7 +7,6 @@
 {% endif %}
 
 {% if zt.annotations.size > 0 %}
-
 ## Annotations
 
 {% for annotation in zt.annotations %}
