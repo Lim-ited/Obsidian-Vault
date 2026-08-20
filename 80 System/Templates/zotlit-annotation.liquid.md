@@ -1,11 +1,11 @@
 {% bq %}
+Page: {{ zt.pageLabel }}
+[Link to Zotero]({{ zt.backlink }})
+
 {{ zt.imgLink | embed }}{{ zt.text }}
 {% if zt.comment %}
 
-→ *{{ zt.comment }}*
+→ {{ zt.comment }}
 {% endif %}
-{% if zt.pageLabel %}
-
-*Page {{ zt.pageLabel }}*
-{% endif %}
+^zotero-{{ zt.key }}
 {% endbq %}

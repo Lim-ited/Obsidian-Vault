@@ -26,8 +26,8 @@ zotero-key: 6J6LZ8J5
 %%zt-managed%%
 ## Zotero Notes
 
-
 - [[Comment_ 12 pages, 11 figures. v2_ minor changes. v3_ several changes have been made with respect to v2, including modif_keVCFH|Comment: 12 pages, 11 figures. v2: minor changes. v3: several changes have been made with respect to v2, including modif]]
+
 
 
 
@@ -35,24 +35,22 @@ zotero-key: 6J6LZ8J5
 ## Annotations
 
 
+> Page: 5
+> [Link to Zotero](zotero://open/library/items/M3HUKNRP?annotation=TH7JRLYI&page=5)
+>
 > The most involved part of our protocol is the preparation of the |+ ̄ ⟩ for the qRM code. At a high level, our approach prepares the logical |+ ̄ ⟩ state using the encoding method of Ref. [23], followed by an adapted version of flag-based error detection [19–21, 58].
 >
-> → *Overview of qRM code + state preparation*
+> → Overview of qRM code + state preparation
 >
-> *Page 5*
-
-^zt-TH7JRLYI
-
-<!-- zotlit-annotation-separator -->
+> ^zotero-TH7JRLYI
 
 
+> Page: 6
+> [Link to Zotero](zotero://open/library/items/M3HUKNRP?annotation=9RLSR6UF&page=6)
+>
 > It turns out that four is the minimum number of Z-type stabilizers needed to detect all propagated weight-2 or higher X errors after the initialization of Fig. 5 For instance, a set of plaquette stabilizers that satisfy this condition is {p2, p3, p8, p13}. In an experiment, this reduction can decrease the space-time cost of the protocol (see Sec. IV C). We thank an anonymous referee for suggesting to inspect this property.
 >
-> → *Weight of stabilizer is at least 2 or higher*
+> → Weight of stabilizer is at least 2 or higher
 >
-> *Page 6*
-
-^zt-9RLSR6UF
-
-<!-- zotlit-annotation-separator -->
+> ^zotero-9RLSR6UF
 %%/zt-managed%%
