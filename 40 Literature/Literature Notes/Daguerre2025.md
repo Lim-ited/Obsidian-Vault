@@ -44,4 +44,15 @@ zotero-key: 6J6LZ8J5
 ^zt-TH7JRLYI
 
 <!-- zotlit-annotation-separator -->
+
+
+> It turns out that four is the minimum number of Z-type stabilizers needed to detect all propagated weight-2 or higher X errors after the initialization of Fig. 5 For instance, a set of plaquette stabilizers that satisfy this condition is {p2, p3, p8, p13}. In an experiment, this reduction can decrease the space-time cost of the protocol (see Sec. IV C). We thank an anonymous referee for suggesting to inspect this property.
+>
+> → *Weight of stabilizer is at least 2 or higher*
+>
+> *Page 6*
+
+^zt-9RLSR6UF
+
+<!-- zotlit-annotation-separator -->
 %%/zt-managed%%
