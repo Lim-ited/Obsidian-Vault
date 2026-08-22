@@ -1,0 +1,1 @@
+카르노맵은 논리최소화를 하기 위한 테이블이다. [[40 Literature/Authors/Charles H Roth#^zotero-CLDAERDS]]
